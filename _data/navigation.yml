@@ -1,13 +1,26 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: The Foundation
+  url: "/the-foundation/"
   side: left
+  dropdown:
+  - title: "Module 1 - Affordances and Signifiers"
+    url: "/the-foundation/module01"
+  - title: "Module 2 - Behavioral Economics"
+    url: "/the-foundation/module02"
+  - title: "Module 3 - Captology"
+    url: "/the-foundation/module03"
+  - title: "Module 4 - Design"
+    url: "/the-foundation/module04"
+  - title: "Module 5 - Experiences"
+    url: "/the-foundation/module05"
+  - title: "Module 6 - Feedback, Friction, Toil and Invisible Work"
+    url: "/the-foundation/module06"
 
-- title: "Templates"
-  url: "/design/"
+- title: "Worksheets"
+  url: "/the-foundation/worksheets"
   side: left
   dropdown:
   - title: "Grid & Colors"
@@ -31,27 +44,13 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "The Designatic"
+  url: "/the-designatic/"
   side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  
 
-- title: Documentation
-  url: "/documentation/"
+- title: Hall of Shame
+  url: "/hallofshame/"
   side: left
   dropdown:
   - title: "Changelog"
