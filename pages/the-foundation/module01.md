@@ -16,8 +16,10 @@ mediaplayer: true
 <h3>Video</h3>
 <p>
 <a href="#" data-reveal-id="videoModal"><img src="http://i3.ytimg.com/vi/L1CxlyMoFRs/hqdefault.jpg" width="302" height="182" alt=""/></a>
-</p>  
+</p> 
+<p> 
    A short video that is simply the best example of what it means to be a <b>Software Developer AND Designer</b> without the methods and thinking in this short course.  Without raising our hands, I assume we are all guilty of the punchline delivered at the end of this that asks and answers the question, "Who designed this?".
+   </p>
 </div>
    
 
