@@ -1,27 +1,43 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/thedesignatic
   class: icon-github
-  title: Code und mehr...
+  title: Meet me on GitHub
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+- name: Linkedin
+  url: http://www.linkedin.com/in/thedesignatic
+  class: icon-linkedin
+  title: "Connect with me on LinkedIn"
+
+- name: Facebook
+  url: http://www.facebook.com/
+  class: icon-facebook
+  title: "Join the community on Facebook"
 
 - name: Twitter
   url: http://twitter.com/phlow
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow what I do on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Instagram
+  url: http://instagram.com/
+  class: icon-instagram
+  title: "Follow me on Instagram"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+# - name: YouTube
+#  url: http://www.youtube.com/PhlowMedia
+#  class: icon-youtube
+#  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
@@ -33,10 +49,6 @@
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/

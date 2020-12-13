@@ -6,6 +6,8 @@
   url: "/the-foundation/"
   side: left
   dropdown:
+  - title: "The Introduction"
+    url: "/the-foundation/the-introduction"
   - title: "Module 1 - Affordances and Signifiers"
     url: "/the-foundation/module01"
   - title: "Module 2 - Behavioral Economics"
@@ -19,7 +21,7 @@
   - title: "Module 6 - Feedback, Friction, Toil and Invisible Work"
     url: "/the-foundation/module06"
 
-- title: "Worksheets"
+- title: "Methods & Worksheets"
   url: "/the-foundation/worksheets"
   side: left
   dropdown:

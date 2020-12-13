@@ -21,7 +21,7 @@ widget3:
   title: "The Foundation"
   url: '/the-foundation'
   image: widget-github-303x182.jpg
-  text: 'The Foundation, 6 foundational modules that will make every software developer better at what they do.'
+  text: 'The Foundation, 6 foundational modules that will make every software developer better at what they do.  Since all developers are designers, this material is the missing manual for being a better and more thoughtful software developer.'
 #
 # Use the call for action to show a button on the frontpage
 #
