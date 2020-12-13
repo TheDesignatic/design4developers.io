@@ -14,14 +14,13 @@ mediaplayer: true
 <div class="large-6 columns">
 <h3>Affordances</h3>
 <p> 
-   With software nearly anything you can dream up as a software developer is now possible.  This is amazing and a huge challenge for the humans that have to you use your technology.
+   Affordances are the things that something does.  With software nearly anything you can dream up as a software developer is now possible.  This is amazing, however, it ends up being a huge challenge for the humans that have to you use your software, including you.
 </p>
 </div>
-   
 
 <div class="large-6 columns">
 <h3>Signifiers</h3>
-   <p>In the physical world this organically happens with buttons, switches, handles, blades, etc.  In the digital world we have to be deliberate in ensuring they are created.
+   <p>Signifiers are the ways in which we know to do something as a user.  In the physical world this organically happens with buttons, switches, handles, blades, shelves, etc.  In the digital world we have to be deliberate in ensuring they are created.  This deliberate activity is often ignored or not done.
    </p>  
 </div>
 </div>
