@@ -37,21 +37,20 @@
   
 
 - title: "The Designatic"
-  url: "/the-designatic/"
+  url: "/the-designatic"
   side: left
   
 
 - title: Hall of Shame
-  url: "/hallofshame/"
+  url: "/hallofshame"
   side: left
   dropdown:
-  - title: "Changelog"
+  - title: "Some Item Here"
     url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+ 
 
 - title: Blog
-  url: "/blog/"
+  url: "/blog"
   side: left
   dropdown:
   - title: "Blog Archive"

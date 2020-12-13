@@ -14,7 +14,7 @@ widget1:
   text: '<b>Des-ing-a-tic</b> - A person passionate and obsessed about the intersection of engineering, humans and business in the context of software development and delivery; done in a sustainable, profitable and ethical manner.'
 widget2:
   title: "Who Am I"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/the-designatic'
   text: 'Jim Tyrrell, aka <em>The Designatic</em>, is the founder of <b>Design 4 Developers</b>. <br/>
   This passion project distills the <br/><b>Science, Art, Patterns and Methods</b> of <b>Software Development and Design</b> into its <b>essence</b>.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
