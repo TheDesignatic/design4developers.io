@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/thedesignatic
   class: icon-github
-  title: Meet me on GitHub
+  title: Contribute to this site and Collaborate on GitHub
 
 - name: Linkedin
   url: http://www.linkedin.com/in/thedesignatic
@@ -9,17 +9,17 @@
   title: "Connect with me on LinkedIn"
 
 - name: Facebook
-  url: http://www.facebook.com/
+  url: http://www.facebook.com/groups/design4developers/
   class: icon-facebook
   title: "Join the community on Facebook"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/thedesignatic
   class: icon-twitter
   title: "Follow what I do on Twitter"
 
 - name: Instagram
-  url: http://instagram.com/
+  url: http://instagram.com/thedesignatic
   class: icon-instagram
   title: "Follow me on Instagram"
 

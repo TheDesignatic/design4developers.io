@@ -14,12 +14,13 @@ mediaplayer: true
 <div class="row">
 <div class="large-6 columns">
 <h3>Video</h3>
-<p>
-<a href="#" data-reveal-id="videoModal"><img src="http://i3.ytimg.com/vi/L1CxlyMoFRs/hqdefault.jpg" width="302" height="182" alt=""/></a>
-</p> 
 <p> 
    A short video that is simply the best example of what it means to be a <b>Software Developer AND Designer</b> without the methods and thinking in this short course.  Without raising our hands, I assume we are all guilty of the punchline delivered at the end of this that asks and answers the question, "Who designed this?".
-   </p>
+</p>
+<p>
+   <a href="#" data-reveal-id="videoModal"><img src="http://i3.ytimg.com/vi/L1CxlyMoFRs/hqdefault.jpg" width="302" height="182" alt=""/></a>
+</p> 
+
 </div>
    
 
@@ -27,11 +28,10 @@ mediaplayer: true
 <h3>Reading</h3>
    <p>Considering the needs of Humans will more positively impact your users' outcomes, business outcomes and can increase the enjoyment of your programs.  Doing this will allow you to maintain control and sanity over your software development and deployment.</p>  
    <a class="radius button small" href="https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design" target="_blank">The Business Value of Design</a>
-
 </div>
 </div>
 
-<h3>Commentary</h3>
+<h3>Background Commentary</h3>
    Tools have existed by some accounts for at least 2.6 million years in and around human civilization.  These physical devices, had baked into their manifestation or implementation the various interfaces we used with them.  Think of an axe or shovel, intrinsically these have the affordances to cut or move things. The handles, as a signifier, eventually shaped to more comfortably fit the hand, signify that you could pick it up on that end of the tool.  On the other end, you have some sort of stone or eventually a sharpened metalhead, again another signifier to possibly avoid that end of the tool.  This hard end would eventually be sharpened to enable the cutting of wood or into the earth.  
 
    Affordances and their signifiers are intrinsic to the history of man and the development of civilization, and in fact science suggests it is part of our DNA.  Studying how babies explore and learn about the world around them, they don't notice that things are metal, shiny or colorful.  Instead they categorize items by their capabilities, in other words affordances and signifiers have been with you from your first day on the planet.
@@ -41,7 +41,7 @@ mediaplayer: true
    The intersection of the science and art of software development and the science of what makes us human, and how they combine will be a core theme of the next few modules.
 
 
-<h3>Definitions</h3>  
+<h3>Important Definitions</h3>  
 <b>Affordances</b>    
    Computers enable just about anything, which is the power and danger of them in the context of giving people hints about what is capable with the software delivered by us.  With the power of AI/ML, OptaPlanner, and Moore's law, more capabilities are available via software, however, humans are not getting any smarter, and evidence suggests that humans are getting more and more overwhelmed with all of the extensive choices afforded with technology, thus leading to increasing unhappiness and dissatisfaction. 
 

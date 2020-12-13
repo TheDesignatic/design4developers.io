@@ -22,7 +22,8 @@ permalink: "/the-foundation/"
    Cognitive friction slows all of us down.
    
 This material gives you <b>The Foundation</b> to make you a better developer.  
-You are on your way to becoming a <b>Designatic</b>!!  
+
+You are now on your way to becoming a <b>Designatic</b>!!  
 
 The Designatic welcomes you, <b>Let's Begin</b>.
 
