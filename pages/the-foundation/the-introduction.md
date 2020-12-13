@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "The Introduction"
 subheadline: "Development and Design"
@@ -28,5 +28,5 @@ The next 6 modules are the culmination of over 2 decades of thought, 2 degrees, 
 All of these are distilled into <b>The Foundation</b>, the base methods and knowledge, software developers need to have in this modern world.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/">< The Foundation</a>
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module01">Affordances and Signifiers - Module 1 ›</a>
+<a class="radius button small right" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module01">Affordances and Signifiers - Module 1 ›</a>
 

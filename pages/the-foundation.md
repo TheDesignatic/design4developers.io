@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "The Foundation"
 subheadline: "6 Modules for Developer and Design nirvana"
