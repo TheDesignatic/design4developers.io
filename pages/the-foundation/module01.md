@@ -10,6 +10,22 @@ mediaplayer: true
 > Everything created by humans is designed, software as a subset of everything, is therefore always designed.  
 > The Designatic
 
+<div class="row">
+<div class="large-6 columns">
+<h3>Affordances</h3>
+<p> 
+   With software nearly anything you can dream up as a software developer is now possible.  This is amazing and a huge challenge for the humans that have to you use your technology.
+</p>
+</div>
+   
+
+<div class="large-6 columns">
+<h3>Signifiers</h3>
+   <p>In the physical world this organically happens with buttons, switches, handles, blades, etc.  In the digital world we have to be deliberate in ensuring they are created.
+   </p>  
+</div>
+</div>
+
 
 <div class="row">
 <div class="large-6 columns">
@@ -52,7 +68,7 @@ mediaplayer: true
    Humans make mental models of the world around them, including the software that they use.  When creating these models, they can easily and simply ignore something in front of them.  Humans can happily and easily ignore the low hum of noise in a coffee shop, but the second someone calls their name, they will instantly turn their head to face the caller of their name.  Even if this call is super faint and barely audible to the user.  Our 5 senses are constantly bombarding our brain with stimulus and our brains cancel out those items that are not deemed important, thus allowing us to clearly and simply miss things.
 
 <h3>Activity</h3>
-<a href="https://www.nngroup.com/articles/ten-usability-heuristics" target="_blank">10 Usability Heuristics for User Interface Design, <b>April 24, 1994</b></a>(/)  
+<a href="https://www.nngroup.com/articles/ten-usability-heuristics" target="_blank">10 Usability Heuristics for User Interface Design, <b>April 24, 1994</b></a>  
 
    More than 25 years ago Jakob Nielsen created what is, and still the best checklist for evaluating software to see if it meets the needs of humans.  These 10 items in a concise manner empower you to think about the signifiers and affordances of your software.  While you might think this list only applies to software with a GUI, I would argue that RESTful APIs, command-line programs, and general APIs will benefit from thinking about these 10 items and fairly grading your adherence and compliance to them.  Your first activity, will be to use the linked spreadsheet below, to score something you are working on, have worked on, or have used.    
 
