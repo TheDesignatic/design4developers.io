@@ -7,7 +7,7 @@ teaser: "Cognitive friction is the bane of you and your users.  What are you doi
 permalink: "/the-foundation/module06"
 breadcrumb: true
 ---
-> <h3>Unless you are impossibly lucky, all software at some point will be consumed by humans, for sure during its development, but also for the years after it was delivered, as it is will be maintained and may continue to be used by humans. <br>  
+> <h3>Unless you are impossibly lucky, all software at some point will be consumed by humans, for sure during its development, but also for the years after it was delivered, as it will be maintained and may continue to be used by humans. <br>  
 > The Designatic</h3>
 
 <div class="row">
