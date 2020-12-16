@@ -5,7 +5,12 @@ title: "The Introduction"
 subheadline: "Development and Design"
 teaser: "The Science, Art, Patterns and Methods"
 permalink: "/the-foundation/the-introduction"
+breadcrumb: true
 ---
+
+> <h3>Design is intelligence made visible. <br>  
+> Alina Wheeler</h3>
+
 What I love about development or programing is the intersection of:  
 <b>Science + Art + Patterns + Methods</b>
 

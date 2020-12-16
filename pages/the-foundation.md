@@ -5,7 +5,11 @@ title: "The Foundation"
 subheadline: "6 Modules for Developer and Design nirvana"
 teaser: "Decades in the making, be light years ahead of your software developer peers."
 permalink: "/the-foundation/"
+breadcrumb: true
 ---
+> <h3>The alternative to good design is always bad design. There is no such thing as no design.<br>  
+> Adam Judge</h3>
+ 
 1. <b>Affordances and Signifiers</b>  
    - Software by its virtual nature has infinite possibilities which is good and bad.  
    - As humans, we learn signifiers or capabilities (buttons, knobs, handles, doors, etc) from our earliest age.    
@@ -27,5 +31,5 @@ You are now on your way to becoming a <b>Designatic</b>!!
 
 The Designatic welcomes you, <b>Let's Begin</b>.
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/the-introduction">The Introduction ›</a>
+<a class="radius button small right" href="{{ site.url }}{{ site.baseurl }}/the-foundation/the-introduction">The Introduction ›</a>
 

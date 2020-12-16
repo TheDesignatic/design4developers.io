@@ -3,28 +3,12 @@ layout: page-fullwidth
 show_meta: false
 title: "Affordances and Signifiers"
 subheadline: "Development and Design - Module 1"
-teaser: "Everything created by man is designed"
+teaser: "Affordances are the capabilities of things and Signifiers are how you know what to do with the thing.<br>Do you give your users Affordances or Signifiers??"
 permalink: "/the-foundation/module01"
-mediaplayer: true
+breadcrumb: true
 ---
-> Everything created by humans is designed, software as a subset of everything, is therefore always designed.  
-> The Designatic
-
-<div class="row">
-<div class="large-6 columns">
-<h3>Affordances</h3>
-<p> 
-   Affordances are the things that something does.  With software nearly anything you can dream up as a software developer is now possible.  This is amazing, however, it ends up being a huge challenge for the humans that have to you use your software, including you.
-</p>
-</div>
-
-<div class="large-6 columns">
-<h3>Signifiers</h3>
-   <p>Signifiers are the ways in which we know to do something as a user.  In the physical world this organically happens with buttons, switches, handles, blades, shelves, etc.  In the digital world we have to be deliberate in ensuring they are created.  This deliberate activity is often ignored or not done.
-   </p>  
-</div>
-</div>
-
+> <h3>Everything created by humans is designed, software as a subset of everything, is therefore always designed. <br>  
+> The Designatic</h3>
 
 <div class="row">
 <div class="large-6 columns">
@@ -46,6 +30,8 @@ mediaplayer: true
 </div>
 </div>
 
+<hr> 
+
 <h3>Background Commentary</h3>
    Tools have existed by some accounts for at least 2.6 million years in and around human civilization.  These physical devices, had baked into their manifestation or implementation the various interfaces we used with them.  Think of an axe or shovel, intrinsically these have the affordances to cut or move things. The handles, as a signifier, eventually shaped to more comfortably fit the hand, signify that you could pick it up on that end of the tool.  On the other end, you have some sort of stone or eventually a sharpened metalhead, again another signifier to possibly avoid that end of the tool.  This hard end would eventually be sharpened to enable the cutting of wood or into the earth.  
 
@@ -55,6 +41,7 @@ mediaplayer: true
 
    The intersection of the science and art of software development and the science of what makes us human, and how they combine will be a core theme of the next few modules.
 
+<hr> 
 
 <h3>Important Definitions</h3>  
 <b>Affordances</b>    
@@ -66,6 +53,7 @@ mediaplayer: true
 <b>Inattentional Blindness</b>     
    Humans make mental models of the world around them, including the software that they use.  When creating these models, they can easily and simply ignore something in front of them.  Humans can happily and easily ignore the low hum of noise in a coffee shop, but the second someone calls their name, they will instantly turn their head to face the caller of their name.  Even if this call is super faint and barely audible to the user.  Our 5 senses are constantly bombarding our brain with stimulus and our brains cancel out those items that are not deemed important, thus allowing us to clearly and simply miss things.
 
+<hr> 
 <h3>Activity</h3>
 <a href="https://www.nngroup.com/articles/ten-usability-heuristics" target="_blank">10 Usability Heuristics for User Interface Design, <b>April 24, 1994</b></a>  
 
@@ -73,11 +61,10 @@ mediaplayer: true
 
    Pick a specific feature flow, hopefully, something you don't work on every day, and use the below spreadsheet to score it.
    <a href="https://docs.google.com/spreadsheets/d/1Gqoo_ORcSlXmj_EX_Xrih1BELiYv4HjqLaJlIhrxQ1U" target="_blank">The Ten Heuristics Worksheet, make a copy to edit</a>  
+   
 
-<h3>More Reading/s</h3>
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module01">< Affordances and Signifiers - Module 1</a>
-<a class="radius button small right" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module01">Behavioral Economics - Module 2 ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/the-introduction">< The Introduction</a>
+<a class="radius button small right" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module02">Behavioral Economics - Module 2 ›</a>
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
