@@ -41,16 +41,16 @@ What does this insight do for our users?</p>
 <hr> 
 
 <h3>Important Definitions</h3>  
-- Feedback  
+- <b>Feedback</b>  
    What feedback do you give to your users?  Do you give them an error message, where they are expected to think like you, with your years of experience with the various interfaces (APIs as Code, APIs as Services, GUIs), or do you give them a message about what specifically went wrong, along with a clear resolution to help resolve the issue?  Feedback does not always need to be on the negative side, what are you doing to confirm that the user is going along the correct path?  Do you give the user feedback that they are in step 4, and they should expect 5 steps in total?  How are you using Behavioral Economics and Captology to motivate them to continue with the experience?  
 
- - Friction  
+ - <b>Friction</b>  
    Is anything that does not compute in the wetware ie the brain.  Are you using unique iconify that is not standard either in your application or industry can increase user friction?  Making a user wait without any status that indeed something is happening in the background can make people wonder what they should do, if anything?  Warning users not to click the back button, and failing to handle the incremental nature of networking can drive end users crazy.  This can lead to duplicate orders or entries that have to be resolved with expensive human backend processes.  From the aforementioned Feedback challenges above, to any number of things that make a user question what they should do next, all of these are a form of Cognitive Friction that will slow down your users and impact their enjoyment of your product or service negatively.
 
- - Toil  
+ - <b>Toil</b>  
    Toil is all the things that could be removed from the user's experience that can either be designed away or removed from the basic workflow, flows that are not core to the experience, or via some clever optimization, and do not need to be delivered at all.  Many examples exist for toil, including cutting and pasting magic strings from one part of an experience to another, not exposing core capabilities and delivered features for unknown reasons, and then expecting users to magically discover them, or  expecting a user to create their positive journey around using your product or service without clear curations and thus ensuring they will be successful.  Toil can take so many forms, but you will know it when you see it on your user's face.
 
- - Invisible work  
+ - <b>Invisible work</b>  
    This is a form of toil, but is even more insidious for your users.  This takes the form of unexpected and demanding work that can not be planned for.  This unplanned work can take many forms, but can include:  
    - The implied training required of your users to use your tool, training that only can be earned by the blood, sweat, and tears of your product or service.
    - The expectation that a user will be a power user, even if they only use the tool once a week, month, quarter, or year.  Humans are busy, and increasingly expect to be able to figure out an interface as they are dealing with it, as they easily use 100s of unique interfaces per day.  How many computers per day does the average person interact with, easily 100s if your include automobiles and the appliances in their house and in their pocket all with their unique interface?
