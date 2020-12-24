@@ -52,6 +52,20 @@ Good emotions are the grease for human decision making. <br>
    
    I love college football, and when my two favorite teams are playing others, I ruminate over the loser, and will not enjoy the victory
 
+<b>Hindsight or Hindsight Bias</b>    
+   Convincing yourself, after the fact, that you had predicted, what would happen before it happened.  This is especially present in successful outcomes, and thinking that "smarts" enabled you to succeed where others had fallen.  It either discounts the work taken to get there, or a forgetting of the history of the events that got them to where that successful outcome occurred.
+
+<b>Fundamental Attribution Error</b>    
+   This concept attributes people's choices and more strongly relates them to their personalities vs using the situation that the person found themselves in.  In software development and delivery, the most passive aggressive form of this is "Works on my machine".  
+   Their are so many undercurrents in this statement including:
+   - Why don't you have a better machine?
+   - Why aren't you as smart as me?
+   - Why are you bothering me, don't you see I have more important things to do?
+   - Why can't you figure out why it doesn't work?
+   - Why won't you work harder to figure out what isn't working?  
+
+So many things attributed to their personal being, versus the challenge they are facing right then, which is that something is not working.  It does not even have enough diagnostics to even tell the user what is broken or a next best action to resolve the issue.  Think back to the Ten Heuristics Worksheet, and ask yourself, how many problems amongst those ten items are failing the user to ask for help.
+
 <hr> 
 <h3>Activity</h3>
 None yet stay tuned. 
