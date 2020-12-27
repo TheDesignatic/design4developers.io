@@ -135,11 +135,13 @@ $close-reveal-modal-class: "close-reveal-modal" !default;
   }
 
   // We can control how much radius is used on the modal
+  // Added a position fixed to ensure this is always visible on the page.
   @if $radius == true { @include radius($reveal-radius); }
   @else if $radius { @include radius($radius); }
 
   @if $top-offset {
     @media #{$medium-up} {
+      position: fixed;
       top: $top-offset;
     }
   }
