@@ -37,7 +37,7 @@ Good emotions are the grease for human decision making. <br>
 <hr> 
 
 <h3>Background Commentary</h3>
-   Behavioral Economics is the study of the things that make us human, and are inherent things, that we don't control,  that millions of years of evolution make us who we are as humans.  These are traits we are generally born with and exist in all of us.  These inherent behaviors can be used by us and others for good and bad.  It is important to be aware of behavioral economics when developing software to ensure we are being ethical in its use within our programs.
+   Behavioral Economics is the study of the things that make us human, and are inherent things, that we don't control,  that millions of years of evolution make us who we are as humans.  These are traits we are generally born with and exist in all of us.  These inherent behaviors can be used by us and others for good and bad.  It is important to be aware of behavioral economics when developing software to ensure we are being ethical in its use within our programs.  For as long as time has existed, we humans have strived for three things, status, recognition, and inclusion.  Behavioral Economics gets us to some of the foundations that manifest as those three things.
 <hr> 
 
 <h3>Important Definitions</h3>  

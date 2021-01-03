@@ -61,17 +61,18 @@ With these four categories, Feedback, Friction, Toil, and Invisible work, combin
 <hr> 
 <h3>Activity</h3>
 How do you assess where your software exists in the context of Feedback, Friction, Toil, and Invisible  Work?
-### The UX Assessment, easy as A, B, C, D, and E.
+### The UX Assessment, easy as A, B, C, D, E, and F.
 Let me introduce you to:  
 The UX Assessment
-Easy as A, B, C, and D. 
+Easy as A, B, C, D, E and F. 
 Before you Do Anything(Design, Develop, Deploy, Defend, and Determine your Software)
 You must deliver:
 1. Advantages -  Does the offering do what it must do in the context of a competitive marketplace over and above anything existing?
 2. Basics - Does the offering do what it promises to do? 
 3. Complete Curations - Does the offering deliver easy to use curated complete experiences for normal edge cases and typical, possible error states?
 4. Delights- Does the offering satisfy and excite humans that use it?
-5. Enlightenment - Does the offering make the user a better person and more engaged with what they do?    
+5. Enlightenment - Does the offering make the user a better person and more engaged with what they do?   
+6. Flow - Does the offering enable and empower the user to enter the flow state.  The state whereby time and space are altered as they perform at the highest of levels.
 
 Use the assessment to writeup something you are thinking of working on or have delivered?  
 This can be something you are doing, or a tool you are using from the marketplace.
