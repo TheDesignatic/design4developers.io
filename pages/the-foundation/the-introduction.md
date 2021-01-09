@@ -12,10 +12,10 @@ breadcrumb: true
 > Alina Wheeler</h3>
 
 What I love about development or programing is the intersection of:  
-<b>Science + Art + Patterns + Methods</b>
-
+<b>Development = Science + Art + Patterns + Methods</b>
+ 
 What I love about design is the intersection of:  
-<b>Art + Science + Patterns + Methods</b>
+<b>Design = Art + Science + Patterns + Methods</b>
 
 Therefore:  
 <b>Development is Design</b>   
