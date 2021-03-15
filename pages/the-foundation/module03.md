@@ -74,7 +74,7 @@ Identify a software application or experience that either purposefully or by acc
 
 <hr> 
 <h3>More Reading/s</h3>
-<a href="./../Images/Persuasion%20Interaction%20Design.pdf" target="_blank">A beautiful chart around many persuasion methods</a><br>
+<a href="./../downloads/Persuasion_Interaction_Design.pdf" target="_blank">A beautiful chart around many persuasion methods</a><br>
 <a href="https://imgs.xkcd.com/comics/dependency.png" target="_blank">Fun link about the challenges of consuming Open Source Projects</a><br><br>
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/the-foundation/module02">< Behavioral Economics - Module 2</a>

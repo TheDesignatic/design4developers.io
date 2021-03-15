@@ -16,7 +16,7 @@ widget2:
   title: "Who Am I"
   url: '/the-designatic'
   text: 'Jim Tyrrell, aka <em>The Designatic</em>, is the founder of <b>Design 4 Developers</b>. <br/>
-  This passion project distills the <br/><b>Science, Art, Patterns and Methods</b> of <b>Software Development and Design</b> into its <b>essence</b>.'
+  This passion project which distills the <br/><b>Science, Art, Patterns and Methods</b> of <b>Software Development and Design</b> into its <b>essence</b>.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "The Foundation"
