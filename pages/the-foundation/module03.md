@@ -21,7 +21,6 @@ breadcrumb: true
 </p> 
 
 </div>
-   
 
 <div class="large-6 columns">
 <h3>Video</h3>
@@ -32,6 +31,20 @@ breadcrumb: true
    <a href="#" data-reveal-id="videoModal1"><img src="http://i3.ytimg.com/vi/jsbF9z6adAo/hqdefault.jpg" width="302" height="182" alt=""/></a>
 </p> 
 </div>
+</div>
+
+<div class="row">
+<div class="large-6 columns">
+<h3>Article</h3>
+<p> 
+   A great article that shows the power of using the right words to get people to stick to appointments that they have made.  In this case, "...boosting vaccination rates by up to 11%".  Getting people to make the right decisions can help us convert our customers, give them better experiences, make us better developers in the eyes of our peers, and prevent us, developers, from having to revisit things we have shipped days, weeks, months or, even years ago. 
+</p>
+<p>
+   <a href="https://news.wharton.upenn.edu/press-releases/2021/02/the-university-of-pennsylvanias-behavior-change-for-good-initiative-unveils-effective-strategies-to-boost-vaccination-rates/">The University of Pennsylvania’s Behavior Change for Good Initiative Unveils Effective Strategies to Boost Vaccination Rates</a>
+</p> 
+
+</div>
+
 </div>
 
 <hr> 
@@ -63,8 +76,8 @@ The Six Areas of Influence as defined by Robert Cialdini
    People generally respond well to commitments and consistent behavior from others.  This is also a way in which you can change your own behavior by publicly announcing an intention to change.  
 
 5. <b>Liking</b>  
-   We like to like those we like.  Science tells us 3 things impact this.  People who are similar to us, people that pay us compliments, and cooperate with us.  Doing some small talk at the beginning of any activity, will enable you to work better with others.
- <   
+   We like to like those we like.  Science tells us 3 things impact this.  People who are similar to us, people that pay us compliments, and cooperate with us.  Doing some small talk at the beginning of any activity will enable you to work better with others.
+
 6. <b>Consensus and Social Proof</b>  
    Is the psychological and social phenomenon that guides other users to make the same decisions that others have made.  Think about some of the web applications that you have used in the last few weeks.  In just the last few weeks I have been prompted that some number of people are watching this item.  In the last few hours, so many people have bought insurance for this kind of item or purchase.  With social media, I am validated by how many likes, or comments happen on my posts.  This has given rise to Insta-palaces, places that are Instagram or social media worthy.  It can also prompt a rise in stress and other challenges with people's emotions.  
 
