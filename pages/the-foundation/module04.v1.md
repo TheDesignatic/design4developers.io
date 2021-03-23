@@ -4,7 +4,7 @@ show_meta: false
 title: "Design"
 subheadline: "Development and Design - Module 4"
 teaser: "Everything is designed either by you or your users.<br>What are you doing to design your experiences??"
-permalink: "/the-foundation/module04"
+permalink: "/the-foundation/module04.v1"
 breadcrumb: true
 ---
 > <h3>The price of entry for being a software designer, is not design school by learning to paint, draw, or sketch, it is your willingness to pick up and write code that keeps the needs of humans in mind.<br>  
@@ -66,7 +66,7 @@ How does User Experience affect Security 16 mins, a talk from a Red Hatter
 <hr> 
 
 <h3>Background Commentary</h3>
-Design has many definitions and if you put 10 designers in a room, you will probably get 11 definitions.  The definition I use, Design is how something makes you feel.  For a developer, probably not the easiest of definitions to use, but these 6 modules give you methods to assess the feelings generated and gives you tools to discuss those outcomes in a structured way.  Design, has a long history and can be grouped into 4 time periods as explained below.
+Design, has many definitions and if you put 10 designers in a room, you will probably get 11 definitions.  The definition I use, Design is how something makes you feel.  For a developer, probably not the easiest of definitions to use, but these 6 modules give you methods to assess the feelings generated and gives you tools to discuss those outcomes in a structured way.  Design, has a long history and can be grouped into 4 time periods as explained below.
 
 Jay Doblin, is one of the most influential Designers that the world has never heard of.  From 1955 to 1969 he was the dean at the Institute of Design in Chicago.  He wrote many things, and one of the most interesting pieces are the Seven Levels of Design:
 
@@ -87,22 +87,23 @@ Where should they align to these 7 levels?
 <hr> 
 
 <h3>Important Thoughts</h3>  
-Software Design History in the context of a BJ Fogg's Computing Persuasion Model.  
-He thought of software development and delivery as being done in one of four ways as follows.
-I've also layered this <a href="https://articles.uie.com/design_decision_styles/">article<a/> on top of his software Major Waves in Computing. 
+Design History
+  Design means many different things to many different people.  From various talks attended over the years, and from other research, design can loosely be grouped into four different time periods.  
+  1. The beginning of society to the 1960s  
+    Craftwork ending with Widespread Mass Production  
+    This period encompasses most of human history, but in the context of Design, it is signified by individual craftwork at its beginning, but culminates with mass production and industrialization as still exists today.  Design during this time was generally thought of in the context of low-fidelity incremental innovation, such as a new flavor, or adding a new color to existing products.  Many people and organizations still rely on this incremental innovation to power their businesses today.  By extension, many software projects still fall into this incremental and me too approach when it comes to innovation.  As this period wraps up most items could be marketed by buying time with one of the three major networks in the United States.  The requirements and needs of society were not as complex, and often the designer could reason their way to solving design issues of the day.
 
-<b>The First Way (Functionality):</b>
-Beginning with the earliest computers and programming in the 1940s & 1950s and continuing to today,  software development can be entirely about its functionality, capabilities, and most likely scratching an itch of its creator.  This type of software creation uses "Unintentional Design" and is typified by incoherent and non-unified experiences for end-users.  Typically this can manifest itself as disjointed error messages, user dead ends, error messages that don't make sense, and generally bad emotions felt by your users since they realize not enough care was given to their needs and requirements. 
+  2. The 1960s to 1990s  
+  Mass Marketing and The Expansion of Media  
+  Beginning in the 60s and continuing to today, is the use of mass media, marketing, and advertising to sway consumer sentiment to the purchase or use of your product.  During this time you begin to see the sciences and academia discover the kinds of influence they can have over consumers.  You begin to see the mass market consumer brands realize that individual countries respond to colors in different ways.  You also see the identifying of certain societies as either being individualist or collectivist.  Human Economics and some of the research in this space gets widespread attention and will be awarded a Nobel Prize.  Design, begins to take these factors of culture, behavioral economics, and colors to segment products for specific markets.  On the computing front, Microsoft Windows is launched, launching one of the largest revolutions in the way in which people will work, shop, live, and travel.  Even today, Windows is not individualized to a country besides simple translations into the native language.  Beginning in the early 1990s, both Apple and Microsoft hire experts around Psychology to study the interaction of their offerings in the context of humans.  Don Norman is hired at Apple, and Alan Cooper develops and sells to Microsoft what becomes Visual Basic at Microsoft.  During this time you get the words "User Experience" credited to Don Norman, and "Interaction Design" as fields of research.         
 
-<b>The Second Way (Entertainment):</b>
-Moving forward to the mid-1970s software and computers were beginning to extensively be used for entertainment.  With the rise of the arcade and video game consoles, researchers began to understand the changes in people's behavior in the context of playing these games.  Often capable designers and developers could "Self Design" these games.  They did not require the cross-functional teams required today.  
-
-<b>The Third Way (Ease of Use):</b>
-With the advent of the Macintosh and Windows in the 1980s, we begin to see the broad deployment of computers in businesses, schools, and homes.  No longer were caretakers with white lab coats required to use these machines, however, anyone with the time could learn how to effectively use these computers.  It is during the early 1990s that the term User Experience is coined by Don Norman at Apple and both Apple and Microsoft begin to use User Acceptance teams and full time designers to create fully curated experiences for end users.  This is the beginning of human centered design in Software, and you can label this as "Activity-Focused Design".  Meeting the needs of the users where they are, and not expecting them to know all the ins and outs of what it is you are delivering to them.
-
-<b>The Fourth (Persuasion):</b>
-As you enter the mid-1990s, computers are seen to be change agents and devices for human behavior change.  The addictiveness of games, the internet, email and many other typical activities are seen to be altering the pace and way of daily life.  Some of these changes are for good and others are for worse.  Designing software in this way can be "Experience-Focused Design" and encompasses the entire journey for the user.  Service System design is typically used to ensure a holistic view of the users journey, and to model each of the touch points along the way and to ensure that the user has positive emotions around the experience.   
-
+  3. The 1990s to 2010  
+  Personal Computers, and the Proliferation and Use of World Wide Supply Lines  
+  During this period personal computers become standard for employee desks, the internet becomes ubiquitous for most of the first world, and you get the build-out and completion of worldwide supply chains.  These supply lines can bring nearly anything from anywhere to your doorstep either physically or more importantly for technology adoption, virtually.  Design and Design Thinking becomes a discipline taught in MBA programs the world over.  Mass surveillance and sentiment analysis of consumers either via direct primary research or via ethnography drives innovations at countless companies.  During this time the Designer as a power user of color, art, fonts, and layout is replaced by organizations that use Human-Centered Design and finding empathy with your end-users to create next-level experiences for consumers and fostering disruptive innovation as a practice.  Apple rises from the dead to eventually become the most valuable company, for a time, on the planet by doing Human-Centered Design.  Most importantly Apple launches the iPhone in 2007, and begins the transformation of using the Human Stylus, the finger, as the way in which most people will interact with Technology.  
+  
+  4.  2010 to present, some call this the Fourth Industrial Revolution 
+  Mass Computerization, Big Data, and Ubiquitous Computing  
+  The iPhone ushers in an era of ease of use unprecedented in Design and Computing up to that point that becomes an inflection point, and begins a transformation of society that is still occurring to this day.  The app store launches in 2008, and begins consumers' love affair with the next app in, when a downloaded application does not live up to the user's needs.  Our smart phones become tethers to our friends, family, and work.  These devices are constantly delivering location, use, shopping and other  information as Big Data to Apple, Google, Facebook, Amazon, and others to slice and dice profiles of users.  Design ends up using this information to foster addiction, general changes in human behavior, and emotional impacts that are just now only being understood.  Leaders in Design are beginning to ask Should We, instead of Could We around new services and offerings.  The ethics of all this data, tracking, and influence peddling is being assessed and changes to how this works will be discussed and changed in the coming years by Design and Designers, by extension Software Developers. 
 <hr> 
 <h3>Activity</h3>
 Persona for Developers Worksheet  
@@ -112,8 +113,6 @@ Make a copy of the below worksheet, it can be used either as a starting point, o
 
 <hr> 
 <h3>More Reading/s</h3>
-<a href=".//module04.v1">An older version of this page,let me know what you think of this older version and how it compares to this, the current one.</a>
-<br>
 <a href="https://research.redhat.com/wp-content/uploads/2020/02/RHRQ-v2.2-digital.pdf" target="_blank">Page 11, Don’t blame the developers:
 making security usable for IT professionals.</a><br>This is an amazing article that speaks to the requirements of good user experience dovetailing with security and that you can not have good security without also having solid Human-Centered design.  In other words, if your users can not make good choices in the context of security, you are dooming them to having intrinsic issues around  security in the context of your offering.
 <br>
