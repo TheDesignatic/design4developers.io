@@ -91,7 +91,7 @@ Software Design History in the context of a BJ Fogg's Computing Persuasion Model
 He thought of software development and delivery as being done in one of four ways as follows.
 I've also layered this <a href="https://articles.uie.com/design_decision_styles/">article<a/> on top of his software Major Waves in Computing. 
 
-<b>The First Way (Functionality):</b>
+<b>The First Way (Functionality): </b>
 Beginning with the earliest computers and programming in the 1940s & 1950s and continuing to today,  software development can be entirely about its functionality, capabilities, and most likely scratching an itch of its creator.  This type of software creation uses "Unintentional Design" and is typified by incoherent and non-unified experiences for end-users.  Typically this can manifest itself as disjointed error messages, user dead ends, error messages that don't make sense, and generally bad emotions felt by your users since they realize not enough care was given to their needs and requirements. 
 
 <b>The Second Way (Entertainment):</b>
