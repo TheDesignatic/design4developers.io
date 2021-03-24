@@ -112,7 +112,7 @@ Make a copy of the below worksheet, it can be used either as a starting point, o
 
 <hr> 
 <h3>More Reading/s</h3>
-<a href=".//module04.v1">An older version of this page,let me know what you think of this older version and how it compares to this, the current one.</a>
+<a href="./module04_v1">An older version of this page,let me know what you think of this older version and how it compares to this, the current one.</a>
 <br>
 <a href="https://research.redhat.com/wp-content/uploads/2020/02/RHRQ-v2.2-digital.pdf" target="_blank">Page 11, Don’t blame the developers:
 making security usable for IT professionals.</a><br>This is an amazing article that speaks to the requirements of good user experience dovetailing with security and that you can not have good security without also having solid Human-Centered design.  In other words, if your users can not make good choices in the context of security, you are dooming them to having intrinsic issues around  security in the context of your offering.

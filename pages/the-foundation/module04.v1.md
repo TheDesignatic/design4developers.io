@@ -4,7 +4,7 @@ show_meta: false
 title: "Design"
 subheadline: "Development and Design - Module 4"
 teaser: "Everything is designed either by you or your users.<br>What are you doing to design your experiences??"
-permalink: "/the-foundation/module04.v1"
+permalink: "/the-foundation/module04_v1"
 breadcrumb: true
 ---
 > <h3>The price of entry for being a software designer, is not design school by learning to paint, draw, or sketch, it is your willingness to pick up and write code that keeps the needs of humans in mind.<br>  
