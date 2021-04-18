@@ -22,31 +22,24 @@
     url: "/the-foundation/module06"
 
 - title: "Methods & Worksheets"
-  url: "/the-foundation/worksheets"
+  url: "/the-foundation/methods"
   side: left
   dropdown:
-  - title: "The Ten Heuristics of Software UX Worksheet"
-    url: "/design/grid/"
-  - title: "Service Blueprint"
-    url: "/design/grid/"
-  - title: "The 5Es Service Blueprint"
-    url: "/design/grid/"
-  - title: "A, B, C, D, and E"
-    url: "/design/grid/"
-    
-  
+  - title: "The Ten Heuristics of Software UX Worksheet & The SaaS-Ment"
+    url: "/the-foundation/methods/ten-ux-heuristic"
+  - title: "Prevent Revisiting Completed Work Checklist"
+    url: "/the-foundation/methods/before-and-after"
 
 - title: "The Designatic"
   url: "/the-designatic"
   side: left
-  
 
-- title: Hall of Shame
-  url: "/hallofshame"
-  side: left
-  dropdown:
-  - title: "Some Item Here"
-    url: "/changelog/"
+#- title: Hall of Shame
+#  url: "/hallofshame"
+#  side: left
+#  dropdown:
+#  - title: "Some Item Here"
+#    url: "/changelog/"
  
 
 - title: Blog
