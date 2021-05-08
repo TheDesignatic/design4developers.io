@@ -15,6 +15,14 @@ format: frontpage
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
+
+<div class="row t60 b60">
+    <div class="small-12 text-center columns">
+        <a class="button large radius {{ page.callforaction.style }}" href="https://thedesignatic.com/workshop" target="_blank">FREE WORKSHOP:<br>The One-Hour Design Process <br>to Pump Out Market-Ready Software <br>100% of the Time</a>
+    </div><!-- /.small-12.columns -->
+</div><!-- /.row -->
+
+
 <div class="row t60">
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
